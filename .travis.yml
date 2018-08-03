@@ -29,3 +29,9 @@ branches:
 env:
  global:
    - GH_REF: github.com/primitiveheart/primitiveheart.github.io.git
+
+notifications:
+  email:
+    - 1132924359@qq.com
+  on_success: change
+  on_failure: always

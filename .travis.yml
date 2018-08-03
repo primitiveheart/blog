@@ -27,4 +27,4 @@ branches:
     - master
 env:
  global:
-   - GH_REF: git@github.com:primitiveheart/blog.git
+   - GH_REF: git@github.com:primitiveheart/primitiveheart.github.io.git
